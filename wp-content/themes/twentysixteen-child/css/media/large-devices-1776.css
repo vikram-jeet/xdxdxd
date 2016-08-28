@@ -1,0 +1,81 @@
+
+
+/********	Larg-Devicess-1600			********/
+
+.container {
+	
+	width: 1560px;
+}
+.parallax-section {
+    height: 846px;
+}
+.banner-social-icon i.fa {
+    font-size: 26px;
+    height: 50px;
+    padding-top: 12px;
+	width: 50px;
+}
+header .navbar-default .navbar-nav > li > a{
+	font-size:16px;
+}
+.first-section-content p{
+	font-size:28px;
+}
+.first-section-content .btn{
+	font-size:22px;
+	width:350px;
+	height:50px;
+}
+.owl-carousel .item .second-section-female-img .second-section-female-text h2{
+	font-size: 18px;
+}
+.owl-carousel .item .second-section-female-img .second-section-female-text h3{
+	font-size: 16px;
+}
+.owl-item .item-image-1 h3{
+	font-size:16px;
+}
+.owl-item .item-image-1 h2{
+	font-size: 16px;
+}
+.item-social-icon i.fa {
+    font-size: 20px;
+    height: 40px;
+    padding-top: 11px;
+    width: 40px;
+}
+.third-section-content p{
+	font-size: 28px;
+}
+.third-section-content .btn {
+    font-size: 20px;
+    height: 50px;
+    width: 350px;
+}
+.footer-section-content ul li a{
+	font-size: 16px;
+}
+.footer-social-icon i.fa {
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+	padding-top: 10px;
+}
+
+
+/********	Larg-Devicess-1680			********/
+
+.parallax-section {
+    height: 888px;
+}
+
+
+
+/********	Larg-Devicess-1776			********/
+
+
+.parallax-section {
+    height: 939px;
+}
+
+

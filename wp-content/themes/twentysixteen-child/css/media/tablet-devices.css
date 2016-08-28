@@ -1,0 +1,99 @@
+
+
+/*****	Medium-Devicess		******/
+
+.parallax-section{
+	height:524px;
+}
+.banner-social-icon i.fa{
+	top: 330px;
+}
+.first-section-content p{
+	font-size:16px;
+}
+.owl-carousel .item .second-section-female-img .female-circle-imge {
+    margin-left: 75px;
+}
+.third-section-content p{
+	padding-right: 60px;
+}
+.third-section{
+	height:437px;
+}
+.third-section-content {
+    margin-top: 120px;
+}
+
+
+/*****	Tablet-Devicess		******/
+
+.parallax-section{
+	height:  405px;
+}
+.banner-social-icon i.fa {
+    top: 230px;
+}
+.first-section-content p {
+    font-size: 14px;
+}
+.owl-carousel .item .second-section-female-img .female-circle-imge {
+    margin-left: 20px;
+}
+.owl-item .item-image-1 > img{
+	margin-bottom: 15px;
+}
+.owl-item .item-image-1 {
+    margin-top: 30px;
+}
+.owl-item .item-image-1.image-margin-class img {
+    margin-top: 0;
+}
+.owl-item .item-image-1 h3{
+	margin-top: 45px;
+}
+.item:nth-of-type(n+1) {
+    min-height: 1566px;
+}
+.third-section-content p {
+    padding-right: 0;
+}
+.third-section-content {
+    margin-top: 170px;
+}
+.footer-section-content ul li a{
+	font-size: 10px;
+}
+
+.third-section {
+    height: 338px;
+}
+.third-section-content {
+    margin-top: 82px;
+}
+
+.item {
+	padding-left:0px
+}
+
+.second-section-content{
+	
+	padding-left:15px;
+	padding-right:15px;
+
+	
+}
+
+.owl-carousel {
+	
+	margin-left:0px;
+	margin-right:0px;
+	
+}
+
+.owl-controls .owl-buttons div.owl-prev .fa.fa-angle-left {
+	margin-left:10px;
+}
+
+.owl-controls .owl-buttons div.owl-next .fa.fa-angle-right {
+	margin-left:10px;
+}
